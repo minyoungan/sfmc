@@ -1,0 +1,5 @@
+%%[
+  SET @Variable = "Hello World!"
+]%%
+
+%%=v(@Variable)=%%
