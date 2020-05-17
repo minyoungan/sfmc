@@ -1,0 +1,4 @@
+1. Email Studio
+2. Content Builder
+3. Create an email
+4. Send
